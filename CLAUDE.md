@@ -4,7 +4,6 @@ This repo defines the agent-governance convention and also dogfoods it.
 
 ## Governance
 
-
 This repo uses `GOVERNANCE.md` for decision rights. Read it at the start of every session.
 
 Before making any choice that is not plainly inside your assigned task:
