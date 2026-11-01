@@ -1,0 +1,8 @@
+# Append these lines to .github/CODEOWNERS, replacing @OWNER.
+# Then enable branch protection on main with "Require review from Code Owners".
+# This is the only enforcement in Phase 0: agents cannot ratify rulings or amend their own jurisdiction.
+
+/GOVERNANCE.md                         @OWNER
+/governance/                           @OWNER
+/.github/ISSUE_TEMPLATE/gov-question.yml @OWNER
+/.github/CODEOWNERS                    @OWNER
